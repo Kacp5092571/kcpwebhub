@@ -3,8 +3,13 @@ background-color:lightsteelblue;
 font-family: "Brush Script MS";
 }
 #b1{
-size:600%;
+size:900%;
 background-color:lightskyblue; 
 border-radius:7.5px;
 font-family: "Comic Sans Ms";
+}
+#b2{
+size:900%;
+background-color:aqua;
+border-radius:20px;
 }
