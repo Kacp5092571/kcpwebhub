@@ -13,3 +13,9 @@ size:900%;
 background-color:aqua;
 border-radius:20px;
 }
+h1{
+display: inline-block;
+}
+img{
+display: inline-block;
+}
