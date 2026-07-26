@@ -4,18 +4,26 @@ font-family: "Brush Script MS";
 }
 #b1{
 size:900%;
-background-color:lightskyblue; 
-border-radius:7.5px;
-font-family: "Comic Sans Ms";
-}
-#b2{
-size:900%;
-background-color:aqua;
+background-color:rgb(45, 210, 45);
 border-radius:20px;
 }
+
+#b2{
+    size:900%;
+    background-color: greenyellow;
+    border-radius: 20px;
+}
+
+#b3{
+    size: 900%;
+    background-color: rgb(122, 215, 215);
+    border-radius: 20px;
+}
+
+
 h1{
 display: inline-block;
 }
-img{
+.kcplogo{
 display: inline-block;
 }
